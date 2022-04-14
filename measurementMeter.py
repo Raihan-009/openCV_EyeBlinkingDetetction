@@ -1,7 +1,5 @@
 import math
-from turtle import distance
 import cv2
-from cv2 import distanceTransform
 class Measurement():
     def __init__(self):
         pass
