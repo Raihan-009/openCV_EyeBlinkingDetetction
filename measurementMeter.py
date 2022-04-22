@@ -1,6 +1,5 @@
 import math
 import cv2
-from matplotlib.pyplot import draw
 class Measurement():
     def __init__(self):
         pass
